@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+Created on 24-06-2020 01:20hrs
 
 ### Project Title
-Replace the Project Title
+Git Project 
 
 ### Description
-Describe what your project is about and what it does
+To put what i've learned about version control and GitHub into practice! In this project, I'll be simulating a realistic workflow to refactor my previous BikeShare project using Git
 
 ### Files used
-Include the files used
+FIles used for this projects are bikeshare.py, chicago.csv, washington.csv and new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
